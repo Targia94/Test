@@ -1,13 +1,15 @@
 {
-  "name": "Mini Web App",
-  "short_name": "MiniApp",
-  "start_url": "index.html",
+  "name": "Dashboard App",
+  "short_name": "Dashboard",
+  "start_url": "dashboard.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "icons": [{
-    "src": "icon.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }]
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
